@@ -1,6 +1,10 @@
 ## commands used for analysis of 16S rRNA data (co-extraction)
-## following SOP of Schloss 
+## following SOP of Schloss
 
+## references:
+# Schloss, P. D., Westcott, S. L., Ryabin, T., Hall, J. R., Hartmann, M., Hollister, E. B., … Weber, C. F. (2009). Introducing mothur: open-#source, platform-independent, community-supported software for describing and comparing microbial communities. AEM.
+
+# Kozich, J. J., Westcott, S. L., Baxter, N. T., Highlander, S. K., & Schloss, P. D. (2013). Development of a dual-index sequencing strategy # and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform. AEM.
 
 make.contigs(file=stability.files, processors=30)
 
