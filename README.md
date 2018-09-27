@@ -3,7 +3,7 @@ Data associated with publication of method detailing DNA, RNA and protein co-ext
 
 To render the Krona HTML files interactive without downloading, please prepend http://htmlpreview.github.com/? to the URL of the HTML files. 
 
-Or, this has been done below rendering clickable links:
+Or, this has been done below creating clickable links to each of the relevant Krona plots:
 
 Soil 2 DNA (16S rRNA profiling):
 http://htmlpreview.github.io/?https://github.com/FEMLab/DNA-RNA-Protein-Coextraction-Method-Soil/blob/master/Krona-Soil2-DNA.html
