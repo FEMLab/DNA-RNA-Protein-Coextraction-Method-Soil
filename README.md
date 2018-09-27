@@ -5,6 +5,12 @@ To render the Krona HTML files interactive without downloading, please prepend h
 
 Or, this has been done below rendering clickable links:
 
+Soil 2 DNA (16S rRNA profiling):
+http://htmlpreview.github.io/?https://github.com/FEMLab/DNA-RNA-Protein-Coextraction-Method-Soil/blob/master/Krona-Soil2-DNA.html
+
+Soil 2 cDNA (16S rRNA profiling):
+http://htmlpreview.github.io/?https://github.com/FEMLab/DNA-RNA-Protein-Coextraction-Method-Soil/blob/master/Krona-Soil2-cDNA.html
+
 Soil 2 metaproteome;function by taxonomy:
 http://htmlpreview.github.io/?https://github.com/FEMLab/DNA-RNA-Protein-Coextraction-Method-Soil/blob/master/Krona_Soil2_Protein_FunctionbyTax.html
 
